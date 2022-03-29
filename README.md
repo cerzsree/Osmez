@@ -1,0 +1,2 @@
+# Osmez
+Osmez wordpress theme
